@@ -64,11 +64,11 @@ Durante esta prática, seguimos as seguintes etapas:
 - Recursos incluem o Packet Tracer (disponível no Cisco Networking Academy), PCs virtuais, Servidor e Switch virtual. 💼🔮
 - Documentação para auxiliar no aprendizado. 📄🎓
 
-## 📄 Licença 
+## 📄 Licença 📃
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes. 📜📤
 
-## 📧 Contato 
+## 📧 Contato 📫
 
 - Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, sinta-se à vontade para entrar em contato através do meu;
 - 📧 Email: [joseffermax1472@gmail.com]
