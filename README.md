@@ -1,4 +1,4 @@
-<h1 align="center">🌐Configuração de Endereços IPv4 em Máquinas - Prática de RC🌐</h1>
+<h1 align="center">🌐 Configuração de Rede e Serviços em um Ambiente de Simulação 🖥️</h1>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -6,48 +6,63 @@
   </a>
 </p>
 
-## Sobre o Projeto
-Nesta prática, mergulharemos no mundo da configuração de endereços IPv4 em máquinas. Usaremos o Packet Tracer da Cisco para criar um ambiente fictício e explorar dois cenários interessantes.
+## 🌍 Sobre o Projeto 💼
+Nesta prática, continuaremos a explorar o endereçamento IPv4 e a introdução de um servidor em nossa rede. Utilizaremos o Packet Tracer da Cisco para criar um cenário de simulação.
 
-## 📶 Cenário 1: Hub vs. Switch
+## 📅 Cenário da Prática 🎮
 
-Na primeira parte, há um cenário com duas redes distintas. Uma delas é um 'Switch' e a outra é um 'Hub'. Esses dispositivos desempenham papéis diferentes em uma rede.
-
-### Equipamentos:
-- 4 PCs em cada rede 💻
-- 1 Hub-PT em uma rede 📡
-- 1 Switch 2950-24 (com 24 portas) na outra rede 🔄
-
-**O objetivo é entender a diferença entre os comportamentos do Hub e do Switch.** 🤔🔄
-
-## 📶 Cenário 2: Configurando uma Única Rede
-
-Na segunda parte, há uma reconfiguração e a montagem de uma única rede com dois switches. O objetivo é conectar quatro PCs e dois switches para criar uma pequena rede de área local (LAN) usando Ethernet, permitindo que os PCs se comuniquem usando protocolos IP.
+Neste cenário de prática, exploramos a configuração de uma rede composta por:
 
 ### Equipamentos:
-- 4 PCs (PC0 ao PC3) 💻
-- 2 Switches 2950-24 (switch0 e switch1) 🔄
+- 4 PCs 💻
+- 1 Servidor🌐
+- 1 Switch 2950-24 (com 24 portas) 🔄
 
-Conectaremos os PCs aos switches e os switches entre si, criando uma rede unificada. 🌐🔗
+**O objetivo é aprender sobre a configuração de rede e serviços relacionados em um ambiente simulado. Durante a prática, seguimos as etapas a seguir:** 📋📚
 
-**O objetivo é aprender sobre endereçamento de rede e como os PCs se comunicam em uma única LAN.** 📡👥
+## 📑 Detalhes da Prática 📋
 
-## 🤝 Como Você Pode Contribuir 
+Durante esta prática, seguimos as seguintes etapas:
+
+1. 🚀 **Configuração Inicial**:
+   - Realizamos as conexões dos dispositivos para montar a topologia da rede.
+
+2. 🌐 **Atribuição de Endereços Estáticos**:
+   - Os PCs e o servidor receberam endereços IP manualmente para estabelecer a comunicação na rede.
+
+3. 🔄 **Transição para DHCP**:
+   - Mudamos as configurações para permitir que os PCs obtenham endereços IP dinamicamente por meio de um servidor DHCP.
+
+4. ⚙️ **Configuração do DHCP Server**:
+   - Configuramos um servidor DHCP para atribuir IPs automaticamente aos dispositivos na rede.
+
+5. 🌐 **Servidor Web**:
+   - Verificamos e acessamos um servidor web instalado no servidor, permitindo que os clientes acessem páginas web hospedadas nele.
+
+6. 📄 **Edição de Páginas Web**:
+   - Editamos páginas web no servidor para entender o funcionamento de um servidor web.
+
+7. 🌐 **Configuração do Servidor DNS**:
+   - Configuramos um servidor DNS para associar nomes de domínio a endereços IP, permitindo que os clientes acessem o servidor web por meio de um nome de domínio.
+
+
+## 🤝 Como Você Pode Contribuir 📢
 
 - Sinta-se à vontade para sugerir melhorias ou correções. 🛠️💡
 - Compartilhe suas experiências ou insights sobre o aprendizado desses conceitos. 🗣️🤓
 - Participe da discussão e ajude a esclarecer dúvidas de outros aprendizes. 💬🙋
 
-## 🚀 Como Usar
+## 🚀 Como Usar 🛠️
 
-1. Abra o Packet Tracer da Cisco.
-2. Carregue a topologia fornecida neste repositório.
-3. Siga as instruções para configurar os endereços IP e realizar as simulações. 📋👩‍💻
+1. Abra o software Packet Tracer em seu computador.
+2. Carregue o arquivo de cenário fornecido neste repositório.
+3. Siga as instruções detalhadas no cenário para configurar a rede e os serviços. 📋👩‍💻
 
-## 🔧 Projeto e Recursos 
+## 🔧 Projeto e Recursos 📊
 
-- Este projeto ajuda a entender conceitos de redes usando o Packet Tracer. 🌐🔍
-- Recursos incluem o Packet Tracer (disponível no Cisco Networking Academy), PCs virtuais, Hubs e Switches virtuais. 💼🔮
+- Cenários de configuração de rede. 🌐🔍
+- Recursos incluem o Packet Tracer (disponível no Cisco Networking Academy), PCs virtuais, Servidor e Switch virtual. 💼🔮
+- Documentação para auxiliar no aprendizado. 📄🎓
 
 ## 📄 Licença 
 
