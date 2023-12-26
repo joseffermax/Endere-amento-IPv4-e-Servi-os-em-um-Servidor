@@ -54,8 +54,8 @@ Durante esta prática, seguimos as seguintes etapas:
 
 ## 🚀 Como Usar 🛠️
 
-1. Abra o software Packet Tracer em seu computador.
-2. Carregue o arquivo de cenário fornecido neste repositório.
+1. Abra o software Packet Tracer em seu computador. 👨‍💻🖥️
+2. Carregue o arquivo de cenário fornecido neste repositório. 📁🗄️
 3. Siga as instruções detalhadas no cenário para configurar a rede e os serviços. 📋👩‍💻
 
 ## 🔧 Projeto e Recursos 📊
